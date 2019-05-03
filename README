@@ -1,0 +1,9 @@
+type of particule => Triangle = T / Points = P / Lines = L
+number of particule => put a number
+number of lifetime => put a number
+number for more lifetime => put a number
+speed of particule => put a number
+color red => put a number (0 ~ 255)
+color green => put a number (0 ~ 255)
+color blue => put a number (0 ~ 255)
+light of color => put a number (0 ~ 255)
